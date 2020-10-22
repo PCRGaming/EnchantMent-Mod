@@ -1,0 +1,11 @@
+[
+{
+  "modid": "Golden Enchant Mod",
+  "name": "Golden T4/T6/T10 Enchant Mod",
+  "description": "Changes T4/T6/T10 enchantment colors to gold.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/bowser0000/GoldenEnchants",
+  "authorList": ["Danker"],
+}
+]
