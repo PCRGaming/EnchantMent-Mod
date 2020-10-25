@@ -1,11 +1,11 @@
 [
 {
-  "modid": "Golden Enchant Mod",
-  "name": "Golden T4/T6/T10 Enchant Mod",
-  "description": "Changes T4/T6/T10 enchantment colors to gold.",
+  "modid": "EnchantMent Mod",
+  "name": "Maxed EnchantMent Display Mod",
+  "description": "Changes maxed out enchantments to a different colour",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "https://github.com/bowser0000/GoldenEnchants",
-  "authorList": ["Danker"],
+  "url": "https://github.com/PCRGaming/EnchantMent-Mod",
+  "authorList": ["PCRGaming"],
 }
 ]
