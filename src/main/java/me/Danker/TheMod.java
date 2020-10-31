@@ -63,9 +63,9 @@ public class TheMod {
 	t6Enchants.put("9Protection VII","4Protection VII");
 	t6Enchants.put("9Scavenger IV", "6Scavenger IV");
 	t6Enchants.put("9Scavenger V", "4Scavenger V");
-	t6Enchants.put("6Sharpness VII","4Sharpness VII");
+	t6Enchants.put("9Sharpness VII","4Sharpness VII");
 	t6Enchants.put("9Sharpness VI", "6Sharpness VI");
-	t6Enchants.put("6Smite VII","4Smite VII");
+	t6Enchants.put("9Smite VII","4Smite VII");
 	t6Enchants.put("9Smite VI", "6Smite VI");
 	t6Enchants.put("9Spiked Hook VI", "6Spiked Hook VI");
 	t6Enchants.put("9Thunderlord VI", "6Thunderlord VI");
