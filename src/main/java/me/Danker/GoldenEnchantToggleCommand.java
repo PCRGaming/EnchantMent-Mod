@@ -30,7 +30,7 @@ public class GoldenEnchantToggleCommand extends CommandBase {
 	public void processCommand(ICommandSender arg0, String[] arg1) throws CommandException {
 		EntityPlayer player = (EntityPlayer) arg0;
 		goldToggled = !goldToggled;
-		player.addChatMessage(new ChatComponentText(EnumChatFormatting.GREEN + "Golden enchants have been set to " + EnumChatFormatting.DARK_GREEN + goldToggled. + EEnumChatFormatting.GOLD + "Red enchants are either hard to get or really expensive, Golden Enchants are maxed out enchanments and can be a lower level enchant than red enchantments."));
+		player.addChatMessage(new ChatComponentText(EnumChatFormatting.GREEN + "Golden enchants have been set to " + EnumChatFormatting.DARK_GREEN + goldToggled. + EnumChatFormatting.GOLD + "Red enchants are either hard to get or really expensive (they are fully maxed enchantments no higher level), Golden Enchants are maxed out enchanments and can be a lower level enchant than red enchantments."));
 
 
 }
