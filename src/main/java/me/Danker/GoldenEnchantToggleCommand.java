@@ -33,4 +33,4 @@ public class GoldenEnchantToggleCommand extends CommandBase {
 		player.addChatMessage(new ChatComponentText(EnumChatFormatting.GREEN + "Golden enchants have been set to " + EnumChatFormatting.DARK_GREEN + goldToggled + EnumChatFormatting.DARK_GREEN + ". " + EnumChatFormatting.GOLD + "Red enchants are either hard to get or really expensive (they are fully maxed enchantments no higher level), Golden Enchants are maxed out enchanments and can be a lower level enchant than red enchantments."));
 
 
-}
+}}
