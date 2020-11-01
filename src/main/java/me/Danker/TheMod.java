@@ -29,10 +29,14 @@ public class TheMod {
     public void init(FMLInitializationEvent event) {
     	FMLCommonHandler.instance().bus().register(this);
     	MinecraftForge.EVENT_BUS.register(this);
-//T10 Enchants
-t6Enchants.put("9Compact X", "4Compact X")
-t6Enchants.put("9Expertise X", "4Expertise X)
-//T7 Enchants
+//T10 Enchants (Red)
+t6Enchants.put("9Compact X", "4Compact X");
+t6Enchants.put("9Expertise X", "4Expertise X");
+//T7 Enchants (Red)
+//T6 Enchants (Gold)
+//T5 Enchants (Gold)
+//T4 Enchants (Gold)
+//T1 Enchants (Color)
         t6Enchants.put("9Angler VI", "6Angler VI");
 	t6Enchants.put("9Bane of Arthropods VI", "6Bane of Arthropods VI");
 	t6Enchants.put("9Big Brain V","6Big Brain V");
