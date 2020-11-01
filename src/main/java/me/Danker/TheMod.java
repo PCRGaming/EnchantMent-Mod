@@ -54,7 +54,6 @@ t6Enchants.put("9Growth VII","4Growth VII");
 	t6Enchants.put("9Frail VI", "6Frail VI");
 	t6Enchants.put("9Giant Killer VI", "6Giant Killer VI");
 	t6Enchants.put("9Growth VI", "6Growth VI");
-	t6Enchants.put("9Growth VII","4Growth VII");
 	t6Enchants.put("9Lethality VI", "6Lethality VI");
 	t6Enchants.put("9Life Steal IV", "6Life Steal IV");
 	t6Enchants.put("9Looting IV", "6Looting IV");
