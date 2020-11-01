@@ -1,4 +1,4 @@
-package me.Danker; //Alexander Tran
+package me.Danker; // Doctor Alexander Tran VII
 
 import java.util.HashMap;
 import java.util.Map;
@@ -76,6 +76,7 @@ t6Enchants.put("9Life Steal IV", "6Life Steal IV");
 t6Enchants.put("9Looting IV", "6Looting IV");
 t6Enchants.put("9Scavenger IV", "6Scavenger IV");
 //T1 Enchants (Color)
+t6Enchants.put("9Rainbow I","cR" + EnumChatFormatting.GOLD + "A" + EnumChatFormatting.YELLOW + "I" + EnumChatFormatting.GREEN + "N" + EnumChatFormatting.BLUE + "B" + ");
 		String patternString = "(" + String.join("|", t6Enchants.keySet()) + ")";
 		pattern = Pattern.compile(patternString);
     }
