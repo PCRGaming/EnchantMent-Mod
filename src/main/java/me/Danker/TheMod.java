@@ -32,30 +32,29 @@ public class TheMod {
 //T10 Enchants (Red)
 t6Enchants.put("9Compact X", "4Compact X");
 t6Enchants.put("9Expertise X", "4Expertise X");
+t6Enchants.put("9Feather Falling X", "4Feather Falling X");
+t6Enchants.put("9Infinite Quiver X", "4Infinite Quiver X");
 //T7 Enchants (Red)
+t6Enchants.put("9Giant Killer VII","4Giant Killer VII");
+t6Enchants.put("9Growth VII","4Growth VII");
 //T6 Enchants (Gold)
 //T5 Enchants (Gold)
 //T4 Enchants (Gold)
 //T1 Enchants (Color)
-        t6Enchants.put("9Angler VI", "6Angler VI");
+  t6Enchants.put("9Angler VI", "6Angler VI");
 	t6Enchants.put("9Bane of Arthropods VI", "6Bane of Arthropods VI");
 	t6Enchants.put("9Big Brain V","6Big Brain V");
 	t6Enchants.put("9Caster VI", "6Caster VI");
-	t6Enchants.put("9Compact X", "4Compact X");
 	t6Enchants.put("9Counter-Strike V","6Counter-Strike V");
 	t6Enchants.put("9Critical VI", "6Critical VI");
 	t6Enchants.put("9Dragon Hunter V", "6Dragon Hunter V");
 	t6Enchants.put("9Efficiency VI", "6Efficiency VI");
 	t6Enchants.put("9Ender Slayer VI", "6Ender Slayer VI");
 	t6Enchants.put("9Experience IV", "6Experience IV");
-	t6Enchants.put("9Expertise X", "4Expertise X");
-	t6Enchants.put("9Feather Falling X", "4Feather Falling X");
 	t6Enchants.put("9Frail VI", "6Frail VI");
 	t6Enchants.put("9Giant Killer VI", "6Giant Killer VI");
-	t6Enchants.put("9Giant Killer VII","4Giant Killer VII");
 	t6Enchants.put("9Growth VI", "6Growth VI");
 	t6Enchants.put("9Growth VII","4Growth VII");
-	t6Enchants.put("9Infinite Quiver X", "4Infinite Quiver X");
 	t6Enchants.put("9Lethality VI", "6Lethality VI");
 	t6Enchants.put("9Life Steal IV", "6Life Steal IV");
 	t6Enchants.put("9Looting IV", "6Looting IV");
