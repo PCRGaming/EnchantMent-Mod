@@ -1,4 +1,4 @@
-package me.Danker;
+package me.GoldenEnchant;
 
 import net.minecraft.command.CommandBase;
 import net.minecraft.command.CommandException;
@@ -10,7 +10,7 @@ import net.minecraft.util.EnumChatFormatting;
 public class GoldenEnchantToggleCommand extends CommandBase {
 
 	public static boolean goldToggled = true;
-	
+
 	@Override
 	public String getCommandName() {
 		return "ge";
@@ -20,7 +20,7 @@ public class GoldenEnchantToggleCommand extends CommandBase {
 	public String getCommandUsage(ICommandSender arg0) {
 		return null;
 	}
-	
+
 	@Override
 	public int getRequiredPermissionLevel() {
 		return 0;

@@ -1,5 +1,5 @@
 // Doctor Alexander Tran VII
-package me.Danker; 
+package me.GoldenEnchant;
 
 import java.util.HashMap;
 import java.util.Map;
