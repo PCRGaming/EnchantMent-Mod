@@ -26,5 +26,6 @@ jobs:
     - name: Upload
       uses: actions/upload-artifact@v2
       with:
-       name: Beta Version (Unstable) ${version}
+       name: Beta Version (Unstable) 
+       version: ${version}
        path: build/libs
