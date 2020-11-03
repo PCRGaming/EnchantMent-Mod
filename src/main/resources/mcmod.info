@@ -1,7 +1,7 @@
 [
 {
   "modid": "EnchantMent Mod",
-  "name": "Maxed EnchantMent Display Mod",
+  "name": "EnchantMent Mod",
   "description": "Changes maxed out enchantments to a different colour",
   "version": "${version}",
   "mcversion": "${mcversion}",
