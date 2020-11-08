@@ -32,7 +32,7 @@ public class TheMod {
     	FMLCommonHandler.instance().bus().register(this);
     	MinecraftForge.EVENT_BUS.register(this);
 //Ultimate Enchantments (Only the V makes it black)
-t6Enchants.put("dBank V","dBank" + EnumChatFormatting.BLACK);
+t6Enchants.put("dBank V","dBank" + EnumChatFormatting.BLACK +" V");
 t6Enchants.put("dChimera V","dChimera" + EnumChatFormatting.BLACK +" V");
 t6Enchants.put("dCombo  ","dCombo" + EnumChatFormatting.BLACK +" V");
 t6Enchants.put("dLast Stand V","dLast Stand V" + EnumChatFormatting.BLACK +" V");
