@@ -32,17 +32,17 @@ public class TheMod {
     	FMLCommonHandler.instance().bus().register(this);
     	MinecraftForge.EVENT_BUS.register(this);
 //Ultimate Enchantments (Only the V makes it black)
-t6Enchants.put("dBank V","dBank" + EnumChatFormatting.BLACK +" V");
-t6Enchants.put("dChimera V","dChimera" + EnumChatFormatting.BLACK +" V");
-t6Enchants.put("dCombo  ","dCombo" + EnumChatFormatting.BLACK +" V");
-t6Enchants.put("dLast Stand V","dLast Stand V" + EnumChatFormatting.BLACK +" V");
-t6Enchants.put("dLegion V","dLegion V" + EnumChatFormatting.BLACK +" V");
-t6Enchants.put("dNo Pain No Gain V","dNo Pain No Gain" + EnumChatFormatting.BLACK +" V");
-t6Enchants.put("dRend V","dRend" + EnumChatFormatting.BLACK +" V");
-t6Enchants.put("dSwarm V","dSwarm" + EnumChatFormatting.BLACK +" V");
-t6Enchants.put("dUltimate Jerry V","dUltimate Jerry" + EnumChatFormatting.BLACK +" V");
-t6Enchants.put("dUltimate Wise V","dUltimate Wise" + EnumChatFormatting.BLACK +" V");
-t6Enchants.put("dWisdom V","dWisdom" + EnumChatFormatting.BLACK +" V");
+t6Enchants.put("dBank V","dBank" + EnumChatFormatting.WHITE +" V");
+t6Enchants.put("dChimera V","dChimera" + EnumChatFormatting.WHITE +" V");
+t6Enchants.put("dCombo  ","dCombo" + EnumChatFormatting.WHITE +" V");
+t6Enchants.put("dLast Stand V","dLast Stand V" + EnumChatFormatting.WHITE +" V");
+t6Enchants.put("dLegion V","dLegion V" + EnumChatFormatting.WHITE +" V");
+t6Enchants.put("dNo Pain No Gain V","dNo Pain No Gain" + EnumChatFormatting.WHITE +" V");
+t6Enchants.put("dRend V","dRend" + EnumChatFormatting.WHITE +" V");
+t6Enchants.put("dSwarm V","dSwarm" + EnumChatFormatting.WHITE +" V");
+t6Enchants.put("dUltimate Jerry V","dUltimate Jerry" + EnumChatFormatting.WHITE +" V");
+t6Enchants.put("dUltimate Wise V","dUltimate Wise" + EnumChatFormatting.WHITE +" V");
+t6Enchants.put("dWisdom V","dWisdom" + EnumChatFormatting.WHITE +" V");
 //T10 Enchants (Red)
 t6Enchants.put("9Compact X", "4Compact X"); //1mil ores required
 t6Enchants.put("9Expertise X", "4Expertise X");
