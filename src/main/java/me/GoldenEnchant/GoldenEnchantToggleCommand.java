@@ -1,4 +1,4 @@
-package me.GoldenEnchant.commands;
+package me.GoldenEnchant;
 
 import net.minecraft.command.CommandBase;
 import net.minecraft.command.CommandException;
