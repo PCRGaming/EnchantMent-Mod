@@ -31,6 +31,8 @@ public class TheMod {
     public void init(FMLInitializationEvent event) {
     	FMLCommonHandler.instance().bus().register(this);
     	MinecraftForge.EVENT_BUS.register(this);
+//Experiment Enchantments (Pink)
+
 //Ultimate Enchantments (Only the V makes it black)
 t6Enchants.put("dBank V","dBank" + EnumChatFormatting.WHITE +" V");
 t6Enchants.put("dChimera V","dChimera" + EnumChatFormatting.WHITE +" V");
