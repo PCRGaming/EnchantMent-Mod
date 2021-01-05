@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import net.minecraft.util.EnumChatFormatting;
-
+import GoldenEnchantToggleCommand;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.client.ClientCommandHandler;
 import net.minecraftforge.common.MinecraftForge;
@@ -72,13 +72,13 @@ t6Enchants.put("9Expertise X", "4Expertise X");
 t6Enchants.put("9Feather Falling X", "4Feather Falling X");
 t6Enchants.put("9Infinite Quiver X", "4Infinite Quiver X");
 //T7 Enchants (Red)
-t6Enchants.put("9Blast Protection VII","4Blast Protection VII")
+t6Enchants.put("9Blast Protection VII","4Blast Protection VII");
 t6Enchants.put("9Critical VII","4Critical VII");
 t6Enchants.put("9Ender Slayer VII","4Ender Slayer VII");
 t6Enchants.put("9Fire Protection VII","4Fire Protection VII");
 t6Enchants.put("9Giant Killer VII","4Giant Killer VII");
 t6Enchants.put("9Growth VII","4Growth VII");
-t6Enchants.put("9Luck VII","4Luck VII")
+t6Enchants.put("9Luck VII","4Luck VII");
 t6Enchants.put("9Power VII","4Power VII");
 t6Enchants.put("9Protection VII","4Protection VII");
 t6Enchants.put("9Sharpness VII","4Sharpness VII");
