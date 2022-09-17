@@ -119,7 +119,7 @@ t6Enchants.put("9First Strike V","6First Strike V");
 t6Enchants.put("9Life Steal V","6Life Steal V");
 t6Enchants.put("9Looting V","6Looting V");
 t6Enchants.put("9Overload V", "6Overload V");
-t6Enchants.put("9Scavenger V", "4Scavenger V");
+t6Enchants.put("9Scavenger V", "3Scavenger V");
 t6Enchants.put("9Vicious V","6Vicious V");
 //T4 Enchants (Gold)
 t6Enchants.put("9Experience IV", "6Experience IV");
